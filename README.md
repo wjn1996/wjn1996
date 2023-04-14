@@ -15,7 +15,7 @@ My publications: [https://wjn1996.github.io/publications/](https://wjn1996.githu
 
 - 📈 I'm the founder of [HugAILab](https://github.com/HugAILab), and [HugNLP](https://github.com/wjn1996/HugNLP) library. I'm also the main developer in [Alibaba EasyNLP](https://github.com/alibaba/EasyNLP).
 
-- ❤️ I love writing technique blog at [CSDN](https://wjn1996.blog.csdn.net/) and [ZhiHu](https://www.zhihu.com/people/wjn1996).
+- ❤️ I love writing technique blogs at [CSDN](https://wjn1996.blog.csdn.net/) and [ZhiHu](https://www.zhihu.com/people/wjn1996).
 
 - 💬 Ask me about anything [here](https://github.com/wjn1996/wjn1996/issues) :)
 
