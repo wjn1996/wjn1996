@@ -29,17 +29,17 @@ My publications: [https://wjn1996.github.io/publications/](https://wjn1996.githu
 
 #### Highlights Card
 
-| <a href="https://github.com/wjn1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjn1996&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jianing Wang's github stats" /></a> | <a href="https://github.com/wjn1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjn1996&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/wjn1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjn1996&show_icons=true&include_all_commits=true&hide_border=true" alt="Jianing Wang's github stats" /></a> | <a href="https://github.com/wjn1996/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjn1996&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/wjn1996/HugNLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjn1996&repo=HugNLP&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjn1996&repo=HugNLP" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io" />
 </a> -->
 
 <br />
