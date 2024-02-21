@@ -3,7 +3,8 @@
 <br /> -->
 ## Hello 👋, My name is Jianing Wang.
 
-I'm a Ph.D student from East China Normal University in China 🇨🇳
+I'm a Ph.D student from East China Normal University in China 🇨🇳.
+From October 2023 to February 2024, I was a visiting student at UC San Diego in California 🇺🇸.
 
 My homepage: [https://wjn1996.github.io/](https://wjn1996.github.io/).
 
