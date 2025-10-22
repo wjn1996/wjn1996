@@ -3,8 +3,13 @@
 <br /> -->
 ## Hello 👋, My name is Jianing Wang.
 
-I'm a Ph.D student from East China Normal University in China 🇨🇳.
-From October 2023 to February 2024, I was a visiting student at UC San Diego in California 🇺🇸.
+🎓 I obtained a Ph.D. degree at East China Normal University in June 2024 🇨🇳.
+
+🇺🇸 From October 2023 to February 2024, I have been a visiting student at UC San Diego in California 🇺🇸.
+
+🧑‍🏫 Now, I am a full-time staff engineer in [Meituan LongCat Team](https://github.com/meituan-longcat) (From June 2024 to Now).
+
+👏 If you want to join our team, don't hesitate to get in touch with me.
 
 My homepage: [https://wjn1996.github.io/](https://wjn1996.github.io/).
 
@@ -14,7 +19,7 @@ My publications: [https://wjn1996.github.io/publications/](https://wjn1996.githu
 
 - 💼 I'm a NLP algorithm researcher and developer. My research interests are language model, few-shot learning, question answering, etc.
 
-- 📈 I'm the founder of [HugAILab](https://github.com/HugAILab), and [HugNLP](https://github.com/wjn1996/HugNLP) library. I'm also the main developer in [Alibaba EasyNLP](https://github.com/alibaba/EasyNLP).
+- 📈 I'm the founder of [HugAILab](https://github.com/HugAILab), and [HugNLP](https://github.com/wjn1996/HugNLP) library. I was one of the developers in [Alibaba EasyNLP](https://github.com/alibaba/EasyNLP). Now I am one of the core members of [Meituan LongCat Team](https://github.com/meituan-longcat).
 
 - ❤️ I love writing technique blogs at [CSDN](https://wjn1996.blog.csdn.net/) and [ZhiHu](https://www.zhihu.com/people/wjn1996).
 
